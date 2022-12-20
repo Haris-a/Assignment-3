@@ -12,4 +12,4 @@ Convolution, Padding, Stride, Pooling
 CNN Model For Classification
 Hyperparameters, Model Training, And Evaluation
 
-############################
+
